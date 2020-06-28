@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/bell.png</file>
+        <file>image/bellbullet.png</file>
+        <file>image/board.png</file>
+        <file>image/boardbullet.png</file>
+        <file>image/destination.png</file>
+        <file>image/enemy0.png</file>
+        <file>image/enemy1.png</file>
+        <file>image/enemy2.png</file>
+        <file>image/enemy3.png</file>
+        <file>image/enemy5.png</file>
+        <file>image/ExplosionEffect1.png</file>
+        <file>image/ExplosionEffect2.png</file>
+        <file>image/ExplosionEffect3.png</file>
+        <file>image/ExplosionEffect4.png</file>
+        <file>image/ExplosionEffect5.png</file>
+        <file>image/ExplosionEffect6.png</file>
+        <file>image/ExplosionEffect7.png</file>
+        <file>image/FireBottleBase.png</file>
+        <file>image/fork.png</file>
+        <file>image/forkbullet.png</file>
+        <file>image/GreenBottleBase.png</file>
+        <file>image/plate.png</file>
+        <file>image/platebullet.png</file>
+        <file>image/SelectionBox.png</file>
+        <file>image/tower_base.png</file>
+        <file>image/way.png</file>
+        <file>image/grass.png</file>
+        <file>image/brick.png</file>
+        <file>image/upgrade.png</file>
+        <file>image.qrc</file>
+    </qresource>
+</RCC>
